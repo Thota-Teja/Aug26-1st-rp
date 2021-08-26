@@ -11,6 +11,10 @@ System.out.println("the area of rectangle is:"+(l*h));
 System.ou.println("the area of square is:"+(a*a));
 System.out.println("the area of circle is:"+(3.14*r*r);
 }
+void display()
+{
+	
+}
 public static void main(String args[])
 {
 A a=new Area();
